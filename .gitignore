@@ -1,0 +1,29 @@
+# Secrets
+.env
+
+# Downloaded SNDS data (history)
+data/
+*.csv
+*.csv.gz
+
+# Logs (if you add any later)
+*.log
+logs/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Vim swap / backup files
+*.swp
+*.swo
+*.swn
+*.swm
+*.swl
+*~
